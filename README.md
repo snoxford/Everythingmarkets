@@ -6,13 +6,13 @@ This repository contains my market prediction code. The goal is to share and eva
 
 This project utilizes historical stock data to predict future stock prices using machine learning algorithms. The repository includes data preprocessing, feature engineering, model training, and evaluation scripts.
 
-## Features
-
+## Features 
+- Implementation of various machine learning algorithms
+- Evaluating different regression models for stock price prediction
 - Data fetching from Yahoo Finance
 - Data preprocessing and feature engineering
-- Linear regression model for stock price prediction
 - Evaluation metrics to assess model performance
-- Visualization of predicted vs. actual stock prices
+- Visualization of predicted vs. actual stock
 
 ## Installation
 
