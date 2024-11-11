@@ -60,3 +60,17 @@ future_data = pd.DataFrame({
 
 # Display the future prediction DataFrame
 print(future_data)
+
+# Plotting the results 
+plt.figure(figsize=(10, 5)) 
+plt.plot(data.index[-20:], data['MSFT'][-20:], label='Actual MSFT Price') 
+plt.plot(future_data['Date'], future_data['Predicted_MSFT'], 'ro', label='Predicted MSFT Price') 
+
+# Annotate the predicted value 
+for i, txt in enumerate(future_data['Predicted_MSFT']): 
+    plt.annotate(f'{txt:.2f}', (future_data['Date'][i], future_data['Predicted_MSFT'][i]), textcoords="offset points", xytext=(0,10), ha='center', fontsize=9, color='red') 
+plt.xlabel('Date') 
+plt.ylabel('MSFT Price') 
+plt.title('MSFT Stock Price Prediction for Next Day') 
+plt.legend()
+plt.show()
