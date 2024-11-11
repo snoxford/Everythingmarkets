@@ -1,0 +1,30 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+
+# Load CPI data from an Excel file
+cpi_data = pd.read_excel('Historical_Inflation.xlsx')
+
+# Prepare data for clustering
+data = cpi_data[['Year', 'CPI']]
+data['Year'] = pd.to_datetime(data['Year'], format='%Y')
+data.set_index('Year', inplace=True)
+
+print(data.head())
+
+# Apply K-Means clustering
+num_clusters = 3  # Number of clusters
+kmeans = KMeans(n_clusters=num_clusters, random_state=42)
+kmeans.fit(data[['CPI']])
+data['Cluster'] = kmeans.labels_
+
+#Check the clusters
+print(data)
+
+# Plot the clusters
+plt.figure(figsize=(14, 7))
+plt.scatter(data.index, data['CPI'], c=data['Cluster'], cmap='viridis', marker='o', alpha=0.7)
+plt.xlabel('Year')
+plt.ylabel('CPI')
+plt.title('K-Means Clustering of CPI Data')
+plt.show()
