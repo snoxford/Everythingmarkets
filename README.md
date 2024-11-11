@@ -1,6 +1,6 @@
 # Everything Markets - Market Prediction Using Python
 
-This repository contains my market prediction code, which is used to forecast stock prices for Microsoft (MSFT), SPY, and QQQ. The goal is to share and evaluate various forecasting strategies.
+This repository contains my market prediction code. The goal is to share and evaluate various forecasting strategies.
 
 ## Project Overview
 
