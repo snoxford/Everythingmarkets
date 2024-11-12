@@ -16,6 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
+- Updated clustering into three categories of 'Low', 'Medium' and 'High' along with summary statistics of these categories
 - Clustering of Historical Inflation data using K-Means from Scikit-learn
 - Updated the forecasting model to use RandomForest algorithm
 - Simple Program to forecast MSFT stock price using linear regression machine learning model
