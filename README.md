@@ -16,6 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
+- A new code is added to generate a word cloud of the summary generated from FT.com
 - Simple code to retrieve and summarize a webpage (not a LLM based code)
 - Excel data clean-up and summarization using Pivot Table in the code
 - Python program to take an Excel file for Product Sales, clean it up for blanks, NaNs and non-logical values and write the file with Sales and Average Price summaries
