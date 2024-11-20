@@ -24,4 +24,5 @@ This project utilizes historical stock data to predict future stock prices using
 - Updated clustering into three categories of 'Low', 'Medium' and 'High' along with summary statistics of these categories
 - Clustering of Historical Inflation data using K-Means from Scikit-learn
 - Updated the forecasting model to use RandomForest algorithm
+- A program to find the lag between Advertising spend and Realized Sales. The lag is determined by maximizing R-squared in simple OLS/linear regression
 - Simple Program to forecast MSFT stock price using linear regression machine learning model
