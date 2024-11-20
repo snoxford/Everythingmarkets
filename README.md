@@ -16,7 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
-- Before NVDA earnings call today 11/20/24, the code is used to chart covrered call and protetive put trading strategy 
+- Before NVDA earnings call today 11/20/24, the code is used to chart covered Call and protetive Put trading strategy 
 - This code will give sentiment analysis for content related to US from FT.com
 - A new code is added to generate a word cloud of the summary generated from FT.com
 - Simple code to retrieve and summarize a webpage (not a LLM based code)
