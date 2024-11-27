@@ -16,6 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
+- A simple code to invoke OpenAI LangChain and use it to tell a short story
 - Code to read a sql database stored locally and run some sql queries to update the contents in the database
 - A simple program to transfer Excel data to an SQL database stored locally 
 - The code to update the price of NVDA from YFinance to chart Protective Put and Covered Call strategy after Earnings
