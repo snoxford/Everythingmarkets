@@ -16,6 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
+- Program to run polynomial regression from Scikit-learn to determine Price of Diamonds using Length, Width and Depth
 - A simple code to invoke OpenAI LangChain and use it to tell a short story
 - Code to read a sql database stored locally and run some sql queries to update the contents in the database
 - A simple program to transfer Excel data to an SQL database stored locally 
