@@ -16,6 +16,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock
 
 ## List of Python Codes in this project (in reverse cronological order):
+- Updated MSFT price prediction code to use RandomForest machine learning prediction model
 - Updated Polynomial Regression code to split the data into training and test data
 - Program to run polynomial regression from Scikit-learn to determine Price of Diamonds using Length, Width and Depth
 - A simple code to invoke OpenAI LangChain and use it to tell a short story
