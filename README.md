@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to add Beta values of GOOG, MSFT
 - Code to analyze EPS and P/E ratios for GOOG, MSFT, QQQ and SPY
 - Starting code to analyze and plot growth and correlation between GOOG, MSFT, QQQ, and SPY
 - Updated MSFT price prediction code to use the RandomForest machine learning prediction model
