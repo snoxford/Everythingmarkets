@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Calculate the market risk premium for MSFT and GOOG, using SPY as proxy for the Market
 - Code to add Beta values of GOOG, MSFT
 - Code to analyze EPS and P/E ratios for GOOG, MSFT, QQQ and SPY
 - Starting code to analyze and plot growth and correlation between GOOG, MSFT, QQQ, and SPY
