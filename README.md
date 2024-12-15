@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Calculate the Sharpe Ratio for MSFT and GO using SPY as the proxy for market returns and standard deviation
 - Calculate expected returns for MSFT and GOOG using CAPM
 - Calculate VaR (Value at Risk) for GOOG and MSFT with 95% confidence intervals
 - Calculate the market risk premium for MSFT and GOOG, using SPY as proxy for the Market
