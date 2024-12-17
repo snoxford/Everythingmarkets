@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Optimize Portfolio VaR by Adjusting Composition of MSFT and GOOG in the portfolio
 - Calculate the Value at Risk (VaR) for a 50:50 portfolio Microsoft (MSFT) and Google (GOOG).
 - Calculate the Sharpe Ratio for MSFT and GO using SPY as the proxy for market returns and standard deviation
 - Calculate expected returns for MSFT and GOOG using CAPM
