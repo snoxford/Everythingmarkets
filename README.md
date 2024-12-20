@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Added plots for 20-day moving averages for MSFT, GOOG, QQQ, and SPY
 - Added Correlation Matrix for MSFT, GOOG, SPY, and QQQ
 - Optimize Portfolio VaR by Adjusting Composition of MSFT and GOOG in the portfolio
 - Calculate the Value at Risk (VaR) for a 50:50 portfolio Microsoft (MSFT) and Google (GOOG).
