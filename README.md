@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- New year 2025 code to fetch 2024 returns of 500 S&P 500 companies 
 - Simple code to import daily trading volume for MSFT, GOOG, QQQ and SPY using yFinance
 - Code to add Moving Average Convergence Divergence (MACD) to identify trend changes
 - Added plots for 20-day moving averages for MSFT, GOOG, QQQ, and SPY
