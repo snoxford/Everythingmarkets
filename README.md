@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Starting code to import yearly returns and P/E ratios for momentum investing strategy
 - S&P500 2024 data analysis in Excel
 - Added 2024 Sharpe Ratio to Previous Code to List 500 S&P 500 Stocks and their 2024 Returns and Standard Deviation
 - Added 2024 Standard Deviation to Previous Code to List 500 S&P 500 Stocks and their 2024 Returns
