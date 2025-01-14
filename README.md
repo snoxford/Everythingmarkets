@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Back-Testing Code for Momentum Stock Picking: Selects Top 10 Momentum Stocks from the Last 4 Years Based on Strength and Quality
 - Automated stock selection based on average PE ratio, momentum health indicator, and top 10 highest 2024 returns
 - Added Delta Normal VAR to the existing code for Momentum Investing
 - Added "Momentum Health Indicator" column to calculate the difference between the percentage of days the stock went up and the percentage of days it went down
