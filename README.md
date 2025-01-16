@@ -5,6 +5,7 @@ This repository contains my market prediction code. The goal is to share and eva
 This project utilizes historical stock data to predict future stock prices using machine learning algorithms. The repository includes data preprocessing, feature engineering, model training, and evaluation scripts.
 
 # Features
+- The code will pick top-10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
 - Implementation of various machine learning algorithms
 - Evaluation of different regression models for stock price prediction
 - Data fetching from Yahoo Finance
