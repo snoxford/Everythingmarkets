@@ -5,8 +5,6 @@ This repository contains my market prediction code. The goal is to share and eva
 This project utilizes historical stock data to predict future stock prices using machine learning algorithms. The repository includes data preprocessing, feature engineering, model training, and evaluation scripts.
 
 # Features
-- Updated - Pick top-10 momentum stocks and share the returns, standard deviation, VaR and Sharpe ratio for the porfolio for 2024
-- The code will pick top-10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
 - Implementation of various machine learning algorithms
 - Evaluation of different regression models for stock price prediction
 - Data fetching from Yahoo Finance
@@ -15,6 +13,8 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Updated - Pick top-10 momentum stocks and share the returns, standard deviation, VaR and Sharpe ratio for the porfolio for 2024
+- The code will pick top-10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
 - Back-Testing Code for Momentum Stock Picking: Selects Top 10 Momentum Stocks from the Last 4 Years Based on Strength and Quality
 - Automated stock selection based on average PE ratio, momentum health indicator, and top 10 highest 2024 returns
 - Added Delta Normal VAR to the existing code for Momentum Investing
