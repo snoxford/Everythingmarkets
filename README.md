@@ -13,13 +13,14 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
-- Updated - Pick top-10 momentum stocks and share the returns, standard deviation, VaR and Sharpe ratio for the porfolio for 2024
-- The code will pick top-10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
-- Back-Testing Code for Momentum Stock Picking: Selects Top 10 Momentum Stocks from the Last 4 Years Based on Strength and Quality
-- Automated stock selection based on average PE ratio, momentum health indicator, and top 10 highest 2024 returns
-- Added Delta Normal VAR to the existing code for Momentum Investing
-- Added "Momentum Health Indicator" column to calculate the difference between the percentage of days the stock went up and the percentage of days it went down
-- Starting code to import yearly returns and P/E ratios for momentum investing strategy
+- Updated to seek user input on a year to backtest the momentum trading algorithm for that year
+- Updated - Pick the top 10 momentum stocks and share the returns, standard deviation, VaR, and Sharpe ratio for the portfolio for 2024
+- The code will pick the top 10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
+- Back-Testing Code for Momentum Stock Picking: Selects the Top 10 Momentum Stocks from the Last 4 Years Based on Strength and Quality
+- Automated stock selection based on average P/E ratio, momentum health indicator, and the top 10 highest 2024 returns
+- Added Delta Normal VaR to the existing code for Momentum Investing
+- Added a "Momentum Health Indicator" column to calculate the difference between the percentage of days the stock went up and the percentage of days it went down
+- Starting code to import yearly returns and P/E ratios for the momentum investing strategy
 - S&P500 2024 data analysis in Excel
 - Added 2024 Sharpe Ratio to Previous Code to List 500 S&P 500 Stocks and their 2024 Returns and Standard Deviation
 - Added 2024 Standard Deviation to Previous Code to List 500 S&P 500 Stocks and their 2024 Returns
