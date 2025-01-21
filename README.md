@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Simple code to use Statsmodels ARIMA to forecast AAPL price
 - Updated to seek user input on a year to backtest the momentum trading algorithm for that year
 - Updated - Pick the top 10 momentum stocks and share the returns, standard deviation, VaR, and Sharpe ratio for the portfolio for 2024
 - The code will pick the top 10 momentum stocks using 2023 data and share the returns for the portfolio for 2024
