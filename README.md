@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Adjusting Data and Analyzing Post-Earnings Day Anomalies for AAPL
 - Update on ARIMA Forecast: Excluding Post-Earnings Days to Remove Trading Anomalies
 - Simple code to use Statsmodels ARIMA to forecast AAPL price
 - Updated to seek user input on a year to backtest the momentum trading algorithm for that year
