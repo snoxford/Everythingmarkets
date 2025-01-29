@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Updated code to cleanup data to remove outliers using Z-score
 - A simple code to cleanup data for stock analysis by excluding days with extreme returns
 - Adjusting Data and Analyzing Post-Earnings Day Anomalies for AAPL
 - Update on ARIMA Forecast: Excluding Post-Earnings Days to Remove Trading Anomalies
