@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to Update Two SQL Tables and Populate Summary Statistics Using Union
 - Simple code to perform an inner join on customer data in SQL
 - Updated code to cleanup data to remove outliers using Z-score
 - A simple code to cleanup data for stock analysis by excluding days with extreme returns
