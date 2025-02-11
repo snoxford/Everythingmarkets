@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- ARIMA (AutoRegressive Integrated Moving Average) for analyzing and forecasting time series data
 - Code to perform Trend Analysis using Statsmodels
 - Clustering historical CPI Data Using Scikit-Learn Machine Learning model
 - Segmenting Top 20% Customers by Income and Credit Score using SQL
