@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to forecast MSFT price using RandomForest ML model and check the model accuracy using Mean Absolute Error
 - Added evaluation metrics like AIC, BIC, or RMSE to assess the quality of your ARIMA forecast model
 - ARIMA (AutoRegressive Integrated Moving Average) for analyzing and forecasting time series data
 - Code to perform Trend Analysis using Statsmodels
