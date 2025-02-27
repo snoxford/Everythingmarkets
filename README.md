@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Pricing Diamonds using historical data on Length, Width and Depth
 - Sales Forecast using simple regression model adjusting for lag between Advertising and Sales
 - Importing Telco Customer Churn dataset from Github and storing in a local SQL table
 - Code to forecast MSFT price using RandomForest ML model and check the model accuracy using Mean Absolute Error
