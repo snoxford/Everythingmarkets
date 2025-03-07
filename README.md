@@ -13,6 +13,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- #Code to build regression model to predict Churn Rate for a Telecom Company based on Monthly Charges, Tenor and Contract type
 - Code to Retrieve Telecom Data from SQL and Summarize Customers by Contract Type
 - Telco Customer Churn dataset from Github in a local SQL table to generate summary statistics using Pandas
 - Pricing Diamonds using historical data on Length, Width and Depth
