@@ -5,7 +5,7 @@ This repository contains my market prediction code. The goal is to share and eva
 This project utilizes historical stock data to predict future stock prices using machine learning algorithms. The repository includes data preprocessing, feature engineering, model training, and evaluation scripts.
 
 # Features
-- New project to import Retail data into local machine after cleaning the data
+- Exploring data cleanup, data analysis and forecasting techniques
 - Implementation of various machine learning algorithms
 - Evaluation of different regression models for stock price prediction
 - Data fetching from Yahoo Finance
@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- New project to import Retail data into local machine after cleaning the data
 - Code to predict probability of churn in Telecom data using logistics regression 
 - Code to build regression model to predict Churn Rate for a Telecom Company based on Monthly Charges, Tenor and Contract type
 - Code to Retrieve Telecom Data from SQL and Summarize Customers by Contract Type
