@@ -1,5 +1,5 @@
 # Everything Markets - I publish a Python-based Machine Learning/AI model daily on this repository
-This repository contains my market prediction code. The goal is to share and evaluate various forecasting strategies using Machine Learning and AI. Email me at saurabh.nagda.mba24@oxford.said.edu
+This repository contains my market prediction code. The goal is to share and evaluate various forecasting strategies using Machine Learning and AI. Email me at saurabh.nagda.mba24@said.oxford.edu
 
 # Project Overview
 This project utilizes historical stock data to predict future stock prices using machine learning algorithms. The repository includes data preprocessing, feature engineering, model training, and evaluation scripts.
