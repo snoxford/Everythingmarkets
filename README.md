@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to reduce overfittling and compare the Randomforest model with baseline Logistics Regression
 - New project to import Retail data into local machine after cleaning the data
 - Code to predict probability of churn in Telecom data using logistics regression 
 - Code to build regression model to predict Churn Rate for a Telecom Company based on Monthly Charges, Tenor and Contract type
