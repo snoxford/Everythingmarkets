@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Stock Tweet Sentiment Classifier to classify a tweet as Bullish, Bearish, or Neutral
 - Code to do data exploration and analysis of stock forecast
 - Data Exploration and Visualization of Forecast Accuracy in Stock Predictions
 - Code to reduce overfittling and compare the Randomforest model with baseline Logistics Regression
