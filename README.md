@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Sentiment Analysis of Article Content Using Twitter Roberta Model
 - Bias calculation in business communication using Transformers
 - Real-time Stock Tweet Sentiment Classification using Transformers
 - Stock Tweet Sentiment Classifier to classify a tweet as Bullish, Bearish, or Neutral
