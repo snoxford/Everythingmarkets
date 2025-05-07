@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to predict Churn in Telecom company data 
 - Sentiment Analysis of Article Content Using Twitter Roberta Model
 - Bias calculation in business communication using Transformers
 - Real-time Stock Tweet Sentiment Classification using Transformers
