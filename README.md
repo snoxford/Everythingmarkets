@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Predict customers that are at a high risk of cancellation in the Telecom company data using Logistics regression model
 - Hierarchical Clustering Heatmap of Feature Correlations for Telecom Company data
 - Updated to include feature scaling using StandardScaler to improve model accuracy to predict Telecom Churn
 - Code to predict Churn in Telecom company data 
