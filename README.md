@@ -14,6 +14,7 @@ This project utilizes historical stock data to predict future stock prices using
 - Visualization of predicted vs. actual stock prices
 
 # List of Python Codes in this project (in reverse chronological order):
+- Code to import historical closing price of BANKNIFTY (the banking index in India)
 - The code predicts Up and Down days in S&P500 by analyzing historical SMAs and training the history with neural networks
 - Predict customers that are at a high risk of cancellation in the Telecom company data using Logistics regression model
 - Hierarchical Clustering Heatmap of Feature Correlations for Telecom Company data
